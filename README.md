@@ -1,1 +1,1 @@
-# fycjingoal.github.io
+fycjingoal's public wiki.
